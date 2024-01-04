@@ -5,6 +5,7 @@ int main()
 	float a;
 	printf("Enter a kilo meter value to change : ",a);
 	scanf("%f",&a);
+	printf("hi");
 	
 	int b;
 	b=(a*39370.08);
